@@ -1,0 +1,8 @@
+El siguiente codigo cumple con la funcion de tomar un laberinto dado y resolverlo de manera que el Raton(Entrada) pueda encontrar eficientemente el Queso(salida). Tambien cuenta con una funcion que imprime el recorrido del raton por el laberinto y las coordenadas por las cuales se mueve.
+
+Los autores de este laboratorio:
+
+
+-Ignacio Montenegro B85081
+-Andres Arias Campos B80661
+-Gabriel Araya Mora B80525
