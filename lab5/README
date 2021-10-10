@@ -1,0 +1,30 @@
+Para este laboratorio se implementaron diversas funciones para operar sobre matrices dinamicas.
+
+Ejercicios:
+
+Crear una matriz
+limpiar una matriz
+eliminar una matriz
+-Ignacio Montenegro B85081
+
+Sumar dos matrices 
+multiplicar dos matrices
+-Andres Arias Campos B80661
+
+Sumar matriz y un escalar
+multiplicar matriz y un escalar 
+obtener la matriz transpuesta
+-Gabriel Araya Mora B80525
+
+Para las pruebas se uso una matriz simple la cual fue llenada con entradas consecutivas de numeros.
+Es decir la matriz original tiene la forma:
+
+
+1,2,3
+4,5,6
+7,8,9
+
+
+Esto poniendo de entrada en filas 3
+y en columnas 3.
+Todas las pruebas fueron efectuadas usando esta matriz trivial.
